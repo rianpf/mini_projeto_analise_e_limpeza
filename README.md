@@ -5,7 +5,7 @@
 <img src = "https://user-images.githubusercontent.com/88168427/134500216-859a0228-13b8-46f5-ae3b-643b2cd82dd3.jpg" width = "700px" />
 <div align = "left">
   
-As Olimpíadas são competições das mais diversas modalidades esportivas que, juntas, compõem um evento que ocorre regularmente a cada 4 anos e reúne a participação de diversos atletas ao redor do mundo. 
+As Olimpíadas são competições das mais diversas modalidades esportivas que, juntas, compõem um evento que, atualmente, ocorre de forma regular a cada 2 anos, interpolando a cada edição entre Jogos de Inverno e Jogos de Verão, e reúne a participação de diversos atletas ao redor do mundo.
 
 O notebook presente tem como objetivo encontrar padrões entre os ganhadores de medalhas que já participaram de edições passadas. Para isso, será utilizado um dataset que contém atletas, majoritariamente medalhistas.
 
